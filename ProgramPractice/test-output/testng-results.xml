@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression suite1" duration-ms="33" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+    <groups>
+    </groups>
+    <test name="TestNG Testing" duration-ms="33" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+      <class name="programs.TESTNG_Practice">
+        <test-method status="PASS" signature="BeforeS1()[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="BeforeS1" is-config="true" duration-ms="8" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeS1 -->
+        <test-method status="PASS" signature="BeforeT1()[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="BeforeT1" is-config="true" duration-ms="0" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeT1 -->
+        <test-method status="PASS" signature="BeforeC1()[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="BeforeC1" is-config="true" duration-ms="0" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeC1 -->
+        <test-method status="PASS" signature="BeforeM1()[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="BeforeM1" is-config="true" duration-ms="0" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeM1 -->
+        <test-method status="PASS" signature="test1M1()[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="test1M1" duration-ms="8" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1M1 -->
+        <test-method status="PASS" signature="AfterM1()[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="AfterM1" is-config="true" duration-ms="0" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterM1 -->
+        <test-method status="PASS" signature="AfterC1()[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="AfterC1" is-config="true" duration-ms="0" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterC1 -->
+        <test-method status="PASS" signature="AfterM1()[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="AfterM1" is-config="true" duration-ms="0" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterM1 -->
+        <test-method status="PASS" signature="BeforeM1()[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="BeforeM1" is-config="true" duration-ms="0" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeM1 -->
+        <test-method status="PASS" signature="test2M1(java.lang.String)[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="test2M1" duration-ms="0" started-at="2020-11-18T10:49:17Z" data-provider="data1" finished-at="2020-11-18T10:49:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ashutosh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2M1 -->
+        <test-method status="PASS" signature="AfterT1()[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="AfterT1" is-config="true" duration-ms="0" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterT1 -->
+        <test-method status="PASS" signature="AfterS1()[pri:0, instance:programs.TESTNG_Practice@58651fd0]" name="AfterS1" is-config="true" duration-ms="7" started-at="2020-11-18T10:49:17Z" finished-at="2020-11-18T10:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterS1 -->
+      </class> <!-- programs.TESTNG_Practice -->
+    </test> <!-- TestNG Testing -->
+  </suite> <!-- Regression suite1 -->
+</testng-results>

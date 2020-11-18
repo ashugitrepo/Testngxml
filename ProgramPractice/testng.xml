@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression suite1" thread-count="1" parallel="tests"  verbose="2">
+
+<parameter name="test" value="ashu"/>
+<!-- <parameter name="username1" value="7838084928"/>
+<parameter name="password1" value="ashu29054928"/> -->
+<!-- <listeners>  
+<listener class-name="programs.Listner_Class"/>  
+</listeners> -->  
+
+   <test name="TestNG Testing">
+    <classes>
+     
+          <class name="programs.TESTNG_Practice"/>   
+          
+        
+    </classes>
+    
+  </test> 
+   
+   </suite> 
+
+
+   
